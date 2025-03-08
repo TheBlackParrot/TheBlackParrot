@@ -20,37 +20,37 @@ Some of these are simply just something I wanted, or done in a different way com
     <th>Supports</span></th>
   </tr>
   <tr>
-    <td><strong><a href="/HideTheLogo">HideTheLogo</a></strong></td>
+    <td><strong><a href="https://github.com/TheBlackParrot/HideTheLogo">HideTheLogo</a></strong></td>
     <td>Hides the Beat Saber logo in the menu environments</td>
     <td>>= 1.29.1</td>
   </tr>
   <tr>
-    <td><strong><a href="/HideThePanels">HideThePanels</a></strong></td>
+    <td><strong><a href="https://github.com/TheBlackParrot/HideThePanels">HideThePanels</a></strong></td>
     <td>Hides unwanted panels in Beat Saber's Main Menu</td>
     <td>>= 1.29.1</td>
   </tr>
   <tr>
-    <td><strong><a href="/JustTheDistance">JustTheDistance</a></strong></td>
+    <td><strong><a href="https://github.com/TheBlackParrot/JustTheDistance">JustTheDistance</a></strong></td>
     <td>Simple Beat Saber map reaction time/JD changer</td>
     <td>>= 1.40.0</td>
   </tr>
   <tr>
-    <td><strong><a href="/MenuFloaters">MenuFloaters</a></strong></td>
+    <td><strong><a href="https://github.com/TheBlackParrot/MenuFloaters">MenuFloaters</a></strong></td>
     <td>Changes the amount of LevitatingNote that are present in the menu environment</td>
     <td>>= 1.29.1</td>
   </tr>
   <tr>
-    <td><strong><a href="/Meowderboard">Meowderboard</a></strong></td>
+    <td><strong><a href="https://github.com/TheBlackParrot/Meowderboard">Meowderboard</a></strong></td>
     <td>Shows latest images from a few cat-oriented accounts on Bluesky in place of a leaderboard</td>
     <td>>= 1.38.0</td>
   </tr>
   <tr>
-    <td><strong><a href="/NoteTweaks">NoteTweaks</a></strong></td>
+    <td><strong><a href="https://github.com/TheBlackParrot/NoteTweaks">NoteTweaks</a></strong></td>
     <td>Change various aspects of the default Beat Saber note</td>
     <td>>= 1.29.1</td>
   </tr>
   <tr>
-    <td><strong><a href="/SimpleSoundChanger">SimpleSoundChanger</a></strong></td>
+    <td><strong><a href="https://github.com/TheBlackParrot/SimpleSoundChanger">SimpleSoundChanger</a></strong></td>
     <td>Change some of Beat Saber's sound effects</td>
     <td>>= 1.38.0</td>
   </tr>
