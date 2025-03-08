@@ -52,6 +52,6 @@ Some of these are simply just something I wanted, or done in a different way com
   <tr>
     <td><strong><a href="https://github.com/TheBlackParrot/SimpleSoundChanger">SimpleSoundChanger</a></strong></td>
     <td>Change some of Beat Saber's sound effects</td>
-    <td>>= 1.38.0</td>
+    <td>>= 1.29.1</td>
   </tr>
 </table>
