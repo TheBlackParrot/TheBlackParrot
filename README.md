@@ -54,4 +54,9 @@ Some of these are simply just something I wanted, or done in a different way com
     <td>Change some of Beat Saber's sound effects</td>
     <td>>= 1.29.1</td>
   </tr>
+  <tr>
+    <td><strong><a href="https://github.com/TheBlackParrot/VerboseVolume">VerboseVolume</a></strong></td>
+    <td>Volume manager with some extra specifics</td>
+    <td>>= 1.29.1</td>
+  </tr>
 </table>
