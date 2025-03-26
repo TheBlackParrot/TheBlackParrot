@@ -59,4 +59,9 @@ Some of these are simply just something I wanted, or done in a different way com
     <td>Volume manager with some extra specifics</td>
     <td>>= 1.29.1</td>
   </tr>
+  <tr>
+    <td><strong><a href="https://github.com/TheBlackParrot/WaitHoldUp">WaitHoldUp</a></strong></td>
+    <td>Brings up the pause menu when loading into a map</td>
+    <td>>= 1.29.1</td>
+  </tr>
 </table>
