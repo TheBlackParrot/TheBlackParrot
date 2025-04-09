@@ -20,6 +20,11 @@ Some of these are simply just something I wanted, or done in a different way com
     <th>Supports</span></th>
   </tr>
   <tr>
+    <td><strong><a href="https://github.com/TheBlackParrot/FontChanger">FontChanger</a></strong></td>
+    <td>Changes UI fonts used throughout the game</td>
+    <td>>= 1.37.1</td>
+  </tr>
+  <tr>
     <td><strong><a href="https://github.com/TheBlackParrot/HideTheLogo">HideTheLogo</a></strong></td>
     <td>Hides the Beat Saber logo in the menu environments</td>
     <td>>= 1.29.1</td>
