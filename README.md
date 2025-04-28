@@ -75,3 +75,5 @@ Some of these are simply just something I wanted, or done in a different way com
     <td>>= 1.29.1</td>
   </tr>
 </table>
+
+Oh also: **Vibe coding is bad and you should definitely feel bad for doing it.** Learn to figure out what your code is doing, so that *when* something breaks, you *yourself* have an idea on what to do to fix it. Relying on noise being shaped to the results you want is only going to get you so far.
