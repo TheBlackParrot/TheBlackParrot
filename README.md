@@ -82,3 +82,5 @@ Some of these are simply just something I wanted, or done in a different way com
 </table>
 
 Oh also: **Vibe coding is bad and you should definitely feel bad for doing it.** Learn to figure out what your code is doing, so that *when* something breaks, you *yourself* have an idea on what to do to fix it. Relying on noise being shaped to the results you want is only going to get you so far.
+
+<img style="width: 400px;" src="https://github.com/user-attachments/assets/1cd4a7f9-d91e-4e8e-bb60-38ad00aa2d7c" alt="Screenshot of a tweet on Twitter mocking generative AI users with baby talk"/>
