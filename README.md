@@ -50,6 +50,11 @@ Some of these are simply just something I wanted, or done in a different way com
     <td>>= 1.40.0</td>
   </tr>
   <tr>
+    <td><strong><a href="https://github.com/TheBlackParrot/MenuCoverColors">MenuCoverColors</a></strong></td>
+    <td>Changes the menu environment colors to reflect the selected map's cover art colors</td>
+    <td>>= 1.29.1</td>
+  </tr>
+  <tr>
     <td><strong><a href="https://github.com/TheBlackParrot/MenuFloaters">MenuFloaters</a></strong></td>
     <td>Changes the amount of LevitatingNote that are present in the menu environment</td>
     <td>>= 1.29.1</td>
