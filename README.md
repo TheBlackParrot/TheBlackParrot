@@ -35,6 +35,11 @@ Some of these are simply just something I wanted, or done in a different way com
     <td>>= 1.37.1</td>
   </tr>
   <tr>
+    <td><strong><a href="https://github.com/TheBlackParrot/GameCoverColors">GameCoverColors</a></strong></td>
+    <td>Makes the in-game color scheme reflect the selected map's cover art colors</td>
+    <td>>= 1.39.1</td>
+  </tr>
+  <tr>
     <td><strong><a href="https://github.com/TheBlackParrot/HideTheLogo">HideTheLogo</a></strong></td>
     <td>Hides the Beat Saber logo in the menu environments</td>
     <td>>= 1.29.1</td>
@@ -51,7 +56,7 @@ Some of these are simply just something I wanted, or done in a different way com
   </tr>
   <tr>
     <td><strong><a href="https://github.com/TheBlackParrot/MenuCoverColors">MenuCoverColors</a></strong></td>
-    <td>Changes the menu environment colors to reflect the selected map's cover art colors</td>
+    <td>Makes the menu environment colors reflect the selected map's cover art colors</td>
     <td>>= 1.29.1</td>
   </tr>
   <tr>
