@@ -37,7 +37,7 @@ Some of these are simply just something I wanted, or done in a different way com
   <tr>
     <td><strong><a href="https://github.com/TheBlackParrot/GameCoverColors">GameCoverColors</a></strong></td>
     <td>Makes the in-game color scheme reflect the selected map's cover art colors</td>
-    <td>>= 1.39.1</td>
+    <td>>= 1.29.1</td>
   </tr>
   <tr>
     <td><strong><a href="https://github.com/TheBlackParrot/HideTheLogo">HideTheLogo</a></strong></td>
