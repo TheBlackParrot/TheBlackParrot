@@ -20,6 +20,11 @@ Some of these are simply just something I wanted, or done in a different way com
     <th>Supports</span></th>
   </tr>
   <tr>
+    <td><strong><a href="https://github.com/TheBlackParrot/AccuracyInResults">AccuracyInResults</a></strong></td>
+    <td>Replaces the rank text in the results screen with your accuracy</td>
+    <td>>= 1.39.1</td>
+  </tr>
+  <tr>
     <td><strong><a href="https://github.com/TheBlackParrot/BetterSongList_RandomSort">BetterSongList_RandomSort</a></strong></td>
     <td>Adds a random/unsorted sort method for <a href="https://github.com/kinsi55/BeatSaber_BetterSongList">BetterSongList</a></td>
     <td>>= 1.29.1</td>
