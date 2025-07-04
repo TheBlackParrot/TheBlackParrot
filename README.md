@@ -76,7 +76,13 @@ Some of these are simply just something I wanted, or done in a different way com
   </tr>
   <tr>
     <td><strong><a href="https://github.com/TheBlackParrot/NoteTweaks">NoteTweaks</a></strong></td>
-    <td>Change various aspects of the default Beat Saber note</td>
+    <td>
+      <p>Change various aspects of the default Beat Saber note</p>
+      <span>
+        <strong>0.10.x:</strong> >= 1.39.1<br/>
+        <strong>0.9.x:</strong> 1.29.1 - 1.37.1
+      </span>
+    </td>
     <td>>= 1.29.1</td>
   </tr>
   <tr>
