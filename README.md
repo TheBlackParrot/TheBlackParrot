@@ -12,7 +12,7 @@ I'm comfortable using:
 ### Streaming overlays:
 The overlays I use on my stream are all my own, and I allow the public to use [a few of them](https://theblackparrot.me/overlays). Code for all of them is available [here](https://github.com/TheBlackParrot/stream_resource_dump/tree/main/overlays). They are designed with self-hosting in mind, you don't have to use the version I host if you don't want to.
 ### Beat Saber modding projects:
-Some of these are simply just something I wanted, or done in a different way compared to other already existing mods.
+Some of these are simply just something I wanted, or done in a different way compared to other already existing mods, or things I just maintain really.
 <table>
   <tr>
     <th>Link</th>
@@ -23,6 +23,11 @@ Some of these are simply just something I wanted, or done in a different way com
     <td><strong><a href="https://github.com/TheBlackParrot/AccuracyInResults">AccuracyInResults</a></strong></td>
     <td>Replaces the rank text in the results screen with your accuracy</td>
     <td>>= 1.39.1</td>
+  </tr>
+  <tr>
+    <td><strong><a href="https://github.com/TheBlackParrot/BeatScrobbler">BeatScrobbler</a></strong></td>
+    <td>Last.fm scrobbler using played maps</td>
+    <td>>= 1.40.0</td>
   </tr>
   <tr>
     <td><strong><a href="https://github.com/TheBlackParrot/BetterSongList_RandomSort">BetterSongList_RandomSort</a></strong></td>
