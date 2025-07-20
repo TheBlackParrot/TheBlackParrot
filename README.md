@@ -96,6 +96,11 @@ Some of these are simply just something I wanted, or done in a different way com
     <td>>= 1.29.1</td>
   </tr>
   <tr>
+    <td><strong><a href="https://github.com/TheBlackParrot/PseudoSpatializer">PseudoSpatializer</a></strong></td>
+    <td>Pans note cut sounds depending on the lane said note resides in, regardless of spatializer status</td>
+    <td>>= 1.39.1</td>
+  </tr>
+  <tr>
     <td><strong><a href="https://github.com/TheBlackParrot/SimpleSoundChanger">SimpleSoundChanger</a></strong></td>
     <td>Change some of Beat Saber's sound effects</td>
     <td>>= 1.29.1</td>
