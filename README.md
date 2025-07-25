@@ -35,6 +35,11 @@ Some of these are simply just something I wanted, or done in a different way com
     <td>>= 1.29.1</td>
   </tr>
   <tr>
+    <td><strong><a href="https://github.com/TheBlackParrot/ConditionalScoreSubmission">ConditionalScoreSubmission</a></strong></td>
+    <td>Adds conditions that must be met before scores submit to leaderboards</td>
+    <td>>= 1.39.1</td>
+  </tr>
+  <tr>
     <td><strong><a href="https://github.com/TheBlackParrot/DumbRequestManager">DumbRequestManager</a></strong></td>
     <td>Map request manager that abstracts functions out to externally controlled streaming bots</td>
     <td>>= 1.39.1</td>
