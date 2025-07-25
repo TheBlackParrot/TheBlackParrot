@@ -17,7 +17,7 @@ Some of these are simply just something I wanted, or done in a different way com
   <tr>
     <th>Link</th>
     <th>Description</th>
-    <th>Supports</span></th>
+    <th>Supported</span></th>
   </tr>
   <tr>
     <td><strong><a href="https://github.com/TheBlackParrot/AccuracyInResults">AccuracyInResults</a></strong></td>
