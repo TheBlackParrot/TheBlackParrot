@@ -10,7 +10,7 @@ I'm comfortable using:
 - Lua
 
 ### Streaming overlays:
-The overlays I use on my stream are all my own, and I allow the public to use [a few of them](https://theblackparrot.me/overlays). Code for all of them is available [here](https://github.com/TheBlackParrot/stream_resource_dump/tree/main/overlays). They are designed with self-hosting in mind, you don't have to use the version I host if you don't want to.
+The overlays I use on my stream are all my own, and I allow the public to use [a few of them](https://theblackparrot.me/overlays). Code for all of them is available [here](https://github.com/TheBlackParrot-Streaming-Overlays). They are designed with self-hosting in mind, you don't have to use the version I host if you don't want to.
 ### Beat Saber modding projects:
 Some of these are simply just something I wanted, or done in a different way compared to other already existing mods, or things I just maintain really.
 <table>
