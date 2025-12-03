@@ -26,6 +26,7 @@ The overlays I use on my stream are all my own, and I allow the public to use [a
 | **[SpinShareUpdater](https://github.com/TheBlackParrot/SpinShareUpdater)**              | Adds an indicator button that shows if maps from SpinShare are up-to-date               |
 | **[SpinSpout](https://github.com/TheBlackParrot/SpinSpout)**                            | Adds Spout2 output for direct game capture                                              |
 | **[SkipTheShip](https://github.com/TheBlackParrot/SkipTheShip)**                        | Skips the ship flying out when initially playing a map                                  |
+| **[SRXDIsImportant](https://github.com/TheBlackParrot/SRXDIsImportant)**                | Automatically sets the game's process priority to above normal                          |
 
 Oh also: **Vibe coding is bad and you should definitely feel bad for doing it.** Learn to figure out what your code is doing, so that *when* something breaks, you *yourself* have an idea on what to do to fix it. Relying on noise being shaped to the results you want is only going to get you so far.
 
