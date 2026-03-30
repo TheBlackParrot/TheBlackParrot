@@ -26,8 +26,8 @@ The overlays I use on my stream are all my own, and I allow the public to use [a
 | **[CustomMenuColors](https://github.com/TheBlackParrot/SRXD_CustomMenuColors)**            | Changes the menu colors to colors of your choosing                                      |
 | **[CustomSounds](https://github.com/TheBlackParrot/SRXD_CustomSounds)**                    | Changes the game sounds to sounds of your choosing                                      |
 | **[DisableFilmGrain](https://github.com/TheBlackParrot/SRXD_DisableFilmGrain)**            | Forcibly disables film grain no matter what graphics quality setting you use            |
-| **[MuteTwitchVODTrack](https://github.com/TheBlackParrot/MuteTwitchVODTrack)**             | Toggles an audio track on an audio input source in OBS when selecting songs in the menu |
 | **[HUDTweaks](https://github.com/TheBlackParrot/SRXD_HUDTweaks)**                          | Change various things concerning the in-game HUD                                        |
+| **[MuteTwitchVODTrack](https://github.com/TheBlackParrot/MuteTwitchVODTrack)**             | Toggles an audio track on an audio input source in OBS when selecting songs in the menu |
 | **[QRCodeUnlocker](https://github.com/TheBlackParrot/SRXD_QRCodeUnlocker)**                | Unlocks the QR code view/external link follower for custom charts                       |
 | **[SkipTheShip](https://github.com/TheBlackParrot/SkipTheShip)**                           | Skips the ship flying out when initially playing a map                                  |
 | **[SpinRequests](https://github.com/TheBlackParrot/SpinRequests)**                         | Map request manager that abstracts out functions to an HTTP GET API                     |
