@@ -47,7 +47,7 @@ The overlays I use on my stream are all my own, and I allow the public to use [a
 
 | Mod                                                                        | Description                                                                             | Compatible with |
 | -------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | --------------- |
-| **[NoteTweaks](https://github.com/TheBlackParrot/NoteTweaks-LifeSupport)** | Change various aspects of the default Beat Saber note                                   | 1.42.2          |
+| **[NoteTweaks](https://github.com/TheBlackParrot/NoteTweaks-LifeSupport)** | Change various aspects of the default Beat Saber note                                   | 1.43.0          |
 
 ----
 
