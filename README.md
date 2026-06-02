@@ -46,9 +46,9 @@ The overlays I use on my stream are all my own, and I allow the public to use [a
 > 
 > *Older versions of other mods are available in the list of my repositories. Game version support is mixed.*
 
-| Mod                                                                        | Description                                                                             | Compatible with |
-| -------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | --------------- |
-| **[NoteTweaks](https://github.com/TheBlackParrot/NoteTweaks-LifeSupport)** | Change various aspects of the default Beat Saber note                                   | 1.43.0          |
+| Mod                                                                        | Description                                                                             | Compatible with        |
+| -------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | ---------------------- |
+| **[NoteTweaks](https://github.com/TheBlackParrot/NoteTweaks-LifeSupport)** | Change various aspects of the default Beat Saber note                                   | 1.42.2, 1.43.0, 1.44.0 |
 
 ----
 
