@@ -16,6 +16,9 @@ The overlays I use on my stream are all my own, and I allow the public to use [a
 
 ----
 
+> [!NOTE]
+> *Older versions of some mods are available in the list of my GitHub repositories. I'm in the process of moving over to git.gay as I update released binaries. **New code from June 6th, 2026 onwards will be pushed to git.gay.***
+
 ### Spin Rhythm XD mods:
 | Mod                                                                                        | Description                                                                             |
 | ------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------- |
@@ -42,13 +45,23 @@ The overlays I use on my stream are all my own, and I allow the public to use [a
 
 ### Beat Saber mods:
 > [!NOTE]
-> No new features will be added to any of the mods listed here. I'm only maintaining their current features through game updates for accessibility reasons.
-> 
-> *Older versions of other mods are available in the list of my repositories. Game version support is mixed.*
+> All listed mods support the latest version of the game (1.44.0 as of writing this)
 
-| Mod                                                                        | Description                                                                             | Compatible with        |
-| -------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | ---------------------- |
-| **[NoteTweaks](https://github.com/TheBlackParrot/NoteTweaks-LifeSupport)** | Change various aspects of the default Beat Saber note                                   | 1.42.2, 1.43.0, 1.44.0 |
+| Mod                                                                                          | Description                                                                                                     | Supported                                    |
+|----------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|----------------------------------------------|
+| **[BetterSongList_RandomSort](https://github.com/TheBlackParrot/BetterSongList_RandomSort)** | Adds a random/unsorted sort method for BetterSongList                                                           | >= 1.29.1                                    |
+| **[GameCoverColors](https://git.gay/TheBlackParrot/BS_GameCoverColors)**                     | Makes the in-game color scheme reflect the selected map's cover art colors                                      | >= 1.29.1                                    |
+| **[HideTheGradient](https://github.com/TheBlackParrot/HideTheGradient)**                     | Hides the GradientBackground environment object added into the older environments in newer versions of the game | >= 1.40.8                                    |
+| **[HideTheLogo](https://github.com/TheBlackParrot/HideTheLogo)**                             | Hides the Beat Saber logo in the menu environments                                                              | >= 1.29.1                                    |
+| **[HideThePanels](https://github.com/TheBlackParrot/HideThePanels)**                         | Hides unwanted panels in Beat Saber's Main Menu                                                                 | >= 1.29.1                                    |
+| **[JustTheDistance](https://github.com/TheBlackParrot/JustTheDistance)**                     | Simple Beat Saber map reaction time/JD changer                                                                  | >= 1.40.8                                    |
+| **[MenuCoverColors](https://git.gay/TheBlackParrot/BS_MenuCoverColors)**                     | Changes the menu environment colors to reflect the selected map's cover art colors                              | >= 1.29.1                                    |
+| **[MenuFloaters](https://github.com/TheBlackParrot/MenuFloaters)**                           | Changes the amount of LevitatingNote that are present in the menu environment                                   | >= 1.29.1                                    |
+| **[NoteTweaks](https://git.gay/TheBlackParrot/BS_NoteTweaks)**                               | Change various aspects of the default Beat Saber note                                                           | `0.10`: >= 1.39.1<br> `0.9`: 1.29.1 - 1.37.1 |
+| **[PseudoSpatializer](https://github.com/TheBlackParrot/PseudoSpatializer)**                 | Pans note cut sounds depending on the lane said note resides in                                                 | >= 1.39.1                                    |
+| **[SimpleSoundChanger](https://github.com/TheBlackParrot/SimpleSoundChanger)**               | Change some of Beat Saber's sound effects                                                                       | >= 1.29.1                                    |
+| **[VerboseVolume](https://git.gay/TheBlackParrot/BS_VerboseVolume)**                         | Volume manager with some extra specifics                                                                        | >= 1.29.1                                    |
+| **[WaitHoldUp](https://github.com/TheBlackParrot/WaitHoldUp)**                               | Brings up the pause menu when loading into a map                                                                | >= 1.29.1                                    |
 
 ----
 
