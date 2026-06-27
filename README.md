@@ -30,11 +30,11 @@ The overlays I use on my stream are all my own, and I allow the public to use [a
 | **[CustomMenuColors](https://github.com/TheBlackParrot/SRXD_CustomMenuColors)**            | Changes the menu colors to colors of your choosing                                      |
 | **[CustomSounds](https://github.com/TheBlackParrot/SRXD_CustomSounds)**                    | Changes the game sounds to sounds of your choosing                                      |
 | **[DisableFilmGrain](https://github.com/TheBlackParrot/SRXD_DisableFilmGrain)**            | Forcibly disables film grain no matter what graphics quality setting you use            |
-| **[HUDTweaks](https://github.com/TheBlackParrot/SRXD_HUDTweaks)**                          | Change various things concerning the in-game HUD                                        |
+| **[HUDTweaks](https://git.gay/TheBlackParrot/SRXD_HUDTweaks)**                             | Change various things concerning the in-game HUD                                        |
 | **[MuteTwitchVODTrack](https://github.com/TheBlackParrot/MuteTwitchVODTrack)**             | Toggles an audio track on an audio input source in OBS when selecting songs in the menu |
 | **[QRCodeUnlocker](https://github.com/TheBlackParrot/SRXD_QRCodeUnlocker)**                | Unlocks the QR code view/external link follower for custom charts                       |
 | **[SkipTheShip](https://github.com/TheBlackParrot/SkipTheShip)**                           | Skips the ship flying out when initially playing a map                                  |
-| **[SpinLists](https://github.com/TheBlackParrot/SpinLists)**                               | Adds "playlist" functionality to the game                                               |
+| **[SpinLists](https://git.gay/TheBlackParrot/SRXD_SpinLists)**                             | Adds "playlist" functionality to the game                                               |
 | **[SpinRequests](https://github.com/TheBlackParrot/SpinRequests)**                         | Map request manager that abstracts out functions to an HTTP GET API                     |
 | **[SpinRequestsTwitchBridge](https://github.com/TheBlackParrot/SpinRequestsTwitchBridge)** | Adds a connection to Twitch from inside the game that interfaces with SpinRequests      |
 | **[SpinShareUpdater](https://github.com/TheBlackParrot/SpinShareUpdater)**                 | Adds an indicator button that shows if maps from SpinShare are up-to-date               |
