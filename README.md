@@ -25,7 +25,7 @@ The overlays I use on my stream are all my own, and I allow the public to use [a
 | **[AdditionalVRSettings](https://github.com/TheBlackParrot/SRXD_AdditionalVRSettings)**    | Extra settings for the VR mode                                                          |
 | **[AnotherSpinStatus](https://github.com/TheBlackParrot/AnotherSpinStatus)**               | Provides a WebSocket interface for live game events                                     | 
 | **[BackgroundTraversal](https://github.com/TheBlackParrot/BackgroundTraversal)**           | Sets the menu background to the background of the chart being previewed                 |
-| **[CustomFonts](https://github.com/TheBlackParrot/SRXD_CustomFonts)**                      | Changes the UI fonts to a specific font of your choosing                                |
+| **[CustomFonts](https://git.gay/TheBlackParrot/SRXD_CustomFonts)**                         | Changes the UI fonts to a specific font of your choosing                                |
 | **[CustomMatcaps](https://github.com/TheBlackParrot/SRXD_CustomMatcaps)**                  | Changes various matcap textures throughout the game to textures of your choosing        |  
 | **[CustomMenuColors](https://github.com/TheBlackParrot/SRXD_CustomMenuColors)**            | Changes the menu colors to colors of your choosing                                      |
 | **[CustomSounds](https://github.com/TheBlackParrot/SRXD_CustomSounds)**                    | Changes the game sounds to sounds of your choosing                                      |
