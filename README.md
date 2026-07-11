@@ -19,6 +19,9 @@ The overlays I use on my stream are all my own, and I allow the public to use [a
 > [!NOTE]
 > *Older versions of some mods are available in the list of my GitHub repositories. I'm in the process of moving over to git.gay as I update released binaries. **New code from June 6th, 2026 onwards will be pushed to git.gay.***
 
+**[I have a Discord guild centered around my modding projects!](https://discord.com/invite/sWyymwf6UR)**  
+You can *probably* get quicker support through there than other channels.
+
 ### Spin Rhythm XD mods:
 | Mod                                                                                        | Description                                                                             |
 | ------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------- |
