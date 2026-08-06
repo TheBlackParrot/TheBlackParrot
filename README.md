@@ -47,8 +47,14 @@ You can *probably* get quicker support through there than other channels.
 ----
 
 ### Beat Saber mods:
+**If you use [ScoreSaber's Encore launcher](https://encore.scoresaber.com)**, you can add a custom repository containing all of the mods listed below to easily keep my mods up-to-date (as I frequently change things/fix things).
+
+> You'll add https://theblackparrot.me/bsmods/repository.json as a custom repository in the launcher's Settings menu, and listings will appear for applicable Beat Saber versions.
+
 > [!NOTE]
-> All listed mods support the latest version of the game (1.44.0 as of writing this)
+> All listed mods support the latest (supported) version of the game (1.44.1 as of writing this).
+>
+> *Most mods also currently work with the URP update (1.44.2+), although some have issues that I'll get around to fixing after modding these versions are officially supported by BSMG.*
 
 | Mod                                                                                          | Description                                                                                                     | Supported                                    |
 |----------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|----------------------------------------------|
